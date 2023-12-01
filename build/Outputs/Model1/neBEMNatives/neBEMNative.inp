@@ -1,0 +1,24 @@
+#====>Input directory
+Outputs/Model1/neBEMNatives/Primitives/
+#====>No. of primitives:
+6
+#====>No. of volumes:
+4
+#Input filename for primitive:
+Primitive1.inp
+#Input filename for primitive:
+Primitive2.inp
+#Input filename for primitive:
+Primitive3.inp
+#Input filename for primitive:
+Primitive4.inp
+#Input filename for primitive:
+Primitive5.inp
+#Input filename for primitive:
+Primitive6.inp
+#====>No. of boundary conditions per element:
+1
+#====>Device output directory name:
+NativeResults
+#====>Map input file:
+MapFile.inp

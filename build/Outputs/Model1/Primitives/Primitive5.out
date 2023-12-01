@@ -1,0 +1,16 @@
+#prim: 5, nvertex: 2
+Node1: -6.3e-05	3.15e-05	0.000165
+Node2: 6.3e-05	3.15e-05	0.000165
+PrimOrigin: 0	3.15e-05	0.000165
+Primitive lengths: 9e-06	0.000126
+#DirnCosn: 
+-0, 1, 0
+0, -0, 1
+1, 0, 0
+#volref1: 3, volref2: -1
+#NbSegs: 1
+#ParentObj: 1	EType: 1
+#WireR: 9e-06	WireL: 0.000126
+#SurfLambda: 0	SurfV: 1
+Element begin: 5, Element end: 5
+Number of elements on primitive: 1

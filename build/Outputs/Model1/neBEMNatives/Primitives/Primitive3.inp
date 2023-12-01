@@ -1,0 +1,18 @@
+#Number of vertices:
+2
+#Vertex 0:
+-3.15e-05 -6.3e-05 0.000147
+#Vertex 1:
+-3.15e-05 6.3e-05 0.000147
+#Outward normal:
+0 0 0
+#Volume references:
+1 -1
+#Maximum number of segments:
+0 0
+#Information on X periodicity:
+1 20 0.000126
+#Information on Y periodicity:
+1 20 0.000126
+#Information on Z periodicity:
+0 0 0

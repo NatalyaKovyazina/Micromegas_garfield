@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/natalia/products/garfield/MM_test/mm.C" "/home/natalia/products/garfield/MM_test/build/CMakeFiles/mm.dir/mm.C.o"
+  "/home/natalia/products/garfield/Micromegas_garfield/mm.C" "/home/natalia/products/garfield/Micromegas_garfield/build/CMakeFiles/mm.dir/mm.C.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

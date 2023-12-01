@@ -1,0 +1,9 @@
+#Row	GivenPot	Error
+1	0	1.33227e-14
+2	0	1.24345e-14
+3	1	1.06581e-14
+4	1	1.33227e-14
+5	1	1.06581e-14
+6	1	1.15463e-14
+7	0	1.2819e-30
+#Error maximum on element 1 and its magnitude is 1.33227e-14.
