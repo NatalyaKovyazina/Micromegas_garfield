@@ -1,16 +1,24 @@
-#prim: 6, nvertex: 2
-Node1: -6.3e-05	-3.15e-05	0.000129
-Node2: 6.3e-05	-3.15e-05	0.000129
-PrimOrigin: 0	-3.15e-05	0.000129
-Primitive lengths: 9e-06	0.000126
-#DirnCosn: 
--0, 1, 0
-0, -0, 1
-1, 0, 0
-#volref1: 4, volref2: -1
-#NbSegs: 1
+#prim: 6, nvertex: 4
+Node1: -0.000325	-0.000325	0.003183
+Node2: -0.000325	0.000325	0.003183
+Node3: 0.000325	0.000325	0.003183
+Node4: 0.000325	-0.000325	0.003183
+PrimOrigin: 0	0	0.003183
+Primitive lengths: 0.00065	0.00065
+Norm: 0	0	1
+#volref1: 21, volref2: -1
+#NbSegX: 1, NbSegZ: 1
 #ParentObj: 1	EType: 1
-#WireR: 9e-06	WireL: 0.000126
-#SurfLambda: 0	SurfV: 1
+#SurfX	SurfY	SurfZ	SurfLZ	SurfLZ
+0	0	0.003183	0.00065	0.00065
+#DirnCosn: 
+0, 1, 0
+0, 0, 1
+1, 0, 0
+#SurfLambda: 0	SurfV: -300
+Using the input, the aspect ratio of the elements on prim: 6
+NbSegX: 1, SurfElLX: 0.00065, NbSegZ: 1, SurfElLZ: 0.00065, AR: 1
+After analyzing the aspect ratio of the elements
+NbSegX: 1, SurfElLX: 0.00065, NbSegZ: 1, SurfElLZ: 0.00065, AR: 1
 Element begin: 6, Element end: 6
 Number of elements on primitive: 1

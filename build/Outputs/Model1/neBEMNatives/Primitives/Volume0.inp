@@ -1,7 +1,7 @@
 #Shape of the volume:
 3
 #Material of the volume:
-1
+2
 #Relative permittivity:
 1
 #Potential:
@@ -9,4 +9,4 @@
 #Charge:
 0
 #Boundary type:
-1
+4

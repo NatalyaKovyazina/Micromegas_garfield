@@ -1,0 +1,16 @@
+#prim: 30, nvertex: 2
+Node1: -0.000325	-0.0002205	0.000182
+Node2: 0.000325	-0.0002205	0.000182
+PrimOrigin: 0	-0.0002205	0.000182
+Primitive lengths: 9e-06	0.00065
+#DirnCosn: 
+-0, 1, 0
+0, -0, 1
+1, 0, 0
+#volref1: 12, volref2: -1
+#NbSegs: 1
+#ParentObj: 1	EType: 1
+#WireR: 9e-06	WireL: 0.00065
+#SurfLambda: 0	SurfV: 0
+Element begin: 30, Element end: 30
+Number of elements on primitive: 1

@@ -3,9 +3,12 @@
 
 CMakeFiles/mm.dir/mm.C.o
  /home/natalia/products/garfield/Micromegas_garfield/mm.C
+ /home/natalia/products/garfield/install/include/Garfield/AvalancheMicroscopic.hh
  /home/natalia/products/garfield/install/include/Garfield/Component.hh
  /home/natalia/products/garfield/install/include/Garfield/ComponentNeBem3d.hh
+ /home/natalia/products/garfield/install/include/Garfield/DriftLineRKF.hh
  /home/natalia/products/garfield/install/include/Garfield/FundamentalConstants.hh
+ /home/natalia/products/garfield/install/include/Garfield/GarfieldConstants.hh
  /home/natalia/products/garfield/install/include/Garfield/Geometry.hh
  /home/natalia/products/garfield/install/include/Garfield/GeometrySimple.hh
  /home/natalia/products/garfield/install/include/Garfield/MagboltzInterface.hh
@@ -13,12 +16,14 @@ CMakeFiles/mm.dir/mm.C.o
  /home/natalia/products/garfield/install/include/Garfield/MediumConductor.hh
  /home/natalia/products/garfield/install/include/Garfield/MediumGas.hh
  /home/natalia/products/garfield/install/include/Garfield/MediumMagboltz.hh
+ /home/natalia/products/garfield/install/include/Garfield/MediumPlastic.hh
  /home/natalia/products/garfield/install/include/Garfield/Sensor.hh
  /home/natalia/products/garfield/install/include/Garfield/Shaper.hh
  /home/natalia/products/garfield/install/include/Garfield/Solid.hh
  /home/natalia/products/garfield/install/include/Garfield/SolidBox.hh
  /home/natalia/products/garfield/install/include/Garfield/SolidWire.hh
  /home/natalia/products/garfield/install/include/Garfield/ViewBase.hh
- /home/natalia/products/garfield/install/include/Garfield/ViewCell.hh
+ /home/natalia/products/garfield/install/include/Garfield/ViewDrift.hh
  /home/natalia/products/garfield/install/include/Garfield/ViewField.hh
  /home/natalia/products/garfield/install/include/Garfield/ViewGeometry.hh
+ /home/natalia/products/garfield/install/include/Garfield/ViewSignal.hh

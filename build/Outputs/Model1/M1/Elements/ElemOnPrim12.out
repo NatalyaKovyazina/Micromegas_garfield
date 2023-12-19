@@ -1,0 +1,13 @@
+##Element Counter: 12
+#DevNb	CompNb	PrimNb	Id
+1	1	12	12
+#GType	X	Y	Z	LX	LZ	dA
+4	0.00024	0	2.7e-05	0.00065	0.00015	9.75e-08
+#DirnCosn: 
+0, 1, 0
+0, 0, 1
+1, 0, 0
+#EType	Lambda
+1	0
+#NbBCs	CPX	CPY	CPZ	Value
+1	0.00024	0	2.7e-05	9.08367e+223

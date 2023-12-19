@@ -2,12 +2,12 @@
 #DevNb	CompNb	PrimNb	Id
 1	1	2	2
 #GType	X	Y	Z	LX	LZ	dA
-4	0	0	1e-05	0.000126	0.000126	1.5876e-08
+4	-8e-05	0	1e-05	0.00065	0.00015	9.75e-08
 #DirnCosn: 
 0, 1, 0
-0, 0, 1
-1, 0, 0
+-0, -0, -1
+-1, 0, 0
 #EType	Lambda
 1	0
 #NbBCs	CPX	CPY	CPZ	Value
-1	0	0	1e-05	6.93827e-310
+1	-8e-05	0	1e-05	1.88016e+219
